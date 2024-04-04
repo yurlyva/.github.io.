@@ -1,1 +1,1 @@
-# yurlyva.github.io.
+#.github.io.
